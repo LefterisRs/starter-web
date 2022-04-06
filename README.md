@@ -26,3 +26,4 @@ please fork this repository
 ### Copyright
 
 Git training.
+all rights deserved.
