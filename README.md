@@ -13,6 +13,8 @@ Sample website with plenty of files for demos
 	
 ## How to
 
+please fork this repository
+
 ## Deployments
 
 	epository is for showing how 
