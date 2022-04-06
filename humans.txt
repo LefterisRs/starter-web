@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lefteris Roupas lroupas@terracom.gr
 
 # THANKS
 
